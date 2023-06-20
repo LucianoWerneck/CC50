@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int n;
+do
+{
+    n = get_int("Positibe Numebber: ");
+}
+while (n > 1 && n < 8);
+{
+
+'''}
+
+while(bloco )
+int main(void){
+    int bloco = get_int("Qual tamanho da piramide de blosco? \n");
+    print("#,%s \n" * bloco);
+}'''
