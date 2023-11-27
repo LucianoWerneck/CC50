@@ -8,7 +8,7 @@ int main() {
         scanf("%d", &piramide);
 
         if (piramide < 1 || piramide > 8) {
-            printf("Tamanho inva6lida! Tente novamente.Entre 1 e 8.\n");
+            printf("Tamanho invalido! Tente novamente.Entre 1 e 8.\n");
         }
     } while (piramide < 1 || piramide > 8);
 
